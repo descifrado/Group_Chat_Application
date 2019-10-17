@@ -3,13 +3,13 @@ Chatting Application made on java netbeans platform which support one to one and
 #### Objective-
 Chat Application
 
-#### Platform-
+#### Platforms used-
 Java Netbeans and SQL
 
 #### Tools Used-
 JDBC, Socket Programming, Multithreading.
 
-#### Features-
+#### Features provided-
 ##### One to One chatting- person to person chatting
 ##### Group chatting- person to group of person chatting
 ##### User Registration and Login- signup of user and then login of the person
